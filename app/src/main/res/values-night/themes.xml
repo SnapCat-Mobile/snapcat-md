@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SnapCat" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorSecondary">@color/orange_800</item>
+        <item name="android:color">@color/white</item>
+    </style>
+    <style name="ImageChange"><item name="android:src">@drawable/logo_dark</item></style>
+    <style name="ButtonBack"><item name="android:src">@drawable/baseline_arrow_back_ios_new_24</item></style>
+
+    <style name="Search"><item name="android:src">@drawable/baseline_search_24x</item></style>
+</resources>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SnapCat" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#776B5D</item>
+         <item name="colorSecondary">@color/orange_800</item>
+         <item name="android:color">@color/black</item>
+
+    </style>
+
+    <style name="ImageChange"><item name="android:src">@drawable/logo</item></style>
+    <style name="ButtonBack"><item name="android:src">@drawable/baseline_arrow_back_ios_24</item></style>
+
+    <style name="Search"><item name="android:src">@drawable/baseline_search_24</item></style>
+
+    <style name="Theme.SnapCat" parent="Base.Theme.SnapCat" />
+</resources>

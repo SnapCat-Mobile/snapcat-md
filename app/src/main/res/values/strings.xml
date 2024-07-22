@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SnapCat</string>
+    <string name="image_welcome">Image Welcome</string>
+    <string name="get_started">Get Started</string>
+    <string name="button_arrow">Button Arrow</string>
+    <string name="title_on_boarding1">Explore your cat\'s breed!</string>
+    <string name="title_on_boarding2">Discover the cat’s world with Snapcat</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras neque orci, rhoncus vitae malesuada sit amet, ultricies ac erat. Vestibulum euismod risus at vestibulum sagittis.</string>
+    <string name="email_empty">Email Empty</string>
+    <string name="invalid_email_format">Invalid Email</string>
+    <string name="min_8_character">Min 8 character</string>
+    <string name="username_empty">Username Empty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="scan">Scan</string>
+    <string name="profile">Profile</string>
+    <string name="shop">Shop</string>
+    <string name="desc1_onboarding">Enhance moments with your favourite cat with advanced breed detection capabilities. Explore different cat breeds and get personalised grooming tips!</string>
+    <string name="desc2_onboarding">Snapcat opens the door to your educational adventures. Let\'s start a new adventure with Snapcat! 🐾✨</string>
+    <string name="welcome_desc">Welcome to Snapcat, the cat lover\'s true companion! We are proud to present this innovative app, where every snap of your cat becomes a doorway into a vast world of knowledge.</string>
+    <string name="welcome">Welcome to SnapCat!</string>
+
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="data_invalid">Data invalid</string>
+
+
+    <string-array name="data_name">
+        <item>Abyssinian</item>
+        <item>American Bobtail</item>
+        <item>American Shorthair</item>
+        <item>Bengal</item>
+        <item>Birman</item>
+        <item>Bombay</item>
+        <item>British Shorthair</item>
+        <item>Egyptian Mau</item>
+        <item>Maine Coon</item>
+        <item>Persian</item>
+        <item>Ragdoll</item>
+        <item>Russian Blue</item>
+        <item>Siamese</item>
+        <item>Sphnyx</item>
+        <item>Tuxedo</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/abyssinian</item>
+        <item>@drawable/american_bobtail</item>
+        <item>@drawable/american_shorthair</item>
+        <item>@drawable/bengal</item>
+        <item>@drawable/birman</item>
+        <item>@drawable/bombay</item>
+        <item>@drawable/british_shorthair</item>
+        <item>@drawable/egyptian_mau</item>
+        <item>@drawable/maine_coon</item>
+        <item>@drawable/persian</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/russian_blue</item>
+        <item>@drawable/siamese</item>
+        <item>@drawable/sphnyx</item>
+        <item>@drawable/tuxedo</item>
+    </integer-array>
+
+</resources>
